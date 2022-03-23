@@ -1,6 +1,6 @@
 # Telegram Layout
 
-<img src="src/asset/images/ss.png" width="40%" height="40%"> <br>
+<img src="src/asset/images/ss.png" width="50%" height="50%"> <br>
 
 
 
